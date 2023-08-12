@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Akshit Sharma]
+### Hi there 👋 I'm Akshit Sharma
 
 A computer science student with a deep passion for machine learning, neural networks, and full-stack development. Proud to be a part of the University of Illinois Urbana Champaign. I love transforming ideas into reality using code!
 
