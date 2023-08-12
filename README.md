@@ -2,9 +2,6 @@
 
 A computer science student with a deep passion for machine learning, neural networks, and full-stack development. Proud to be a part of the University of Illinois Urbana Champaign. I love transforming ideas into reality using code!
 
-<!--
-**akshit0211/akshit0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ## 🎓 Education
 
@@ -24,4 +21,3 @@ A computer science student with a deep passion for machine learning, neural netw
 **DevOps:** Kubernetes, Docker, Git   
 **Databases:** Oracle, MySQL, MongoDB, Neo4J, Apache Kafka, Apache Spark
 
--->
